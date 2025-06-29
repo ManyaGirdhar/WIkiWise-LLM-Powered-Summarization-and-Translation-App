@@ -1,5 +1,7 @@
 # 🧠 WIKIWISE: LLM-Powered Text Summarizer & Translator
 
+![WIKIWISE Demo](image.png)
+
 **WIKIWISE** is a Streamlit-based web application that leverages a **Large Language Model (LLM)** to perform high-quality **text summarization** and **translation**. It uses a **LoRA fine-tuned BART model** for context-aware summaries and the **Sarvam AI API** to translate results into various Indian languages.
 
 ---
